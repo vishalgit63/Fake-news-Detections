@@ -1,0 +1,9 @@
+streamlit>=1.49
+requests>=2.32
+beautifulsoup4>=4.12
+scikit-learn>=1.7
+pandas>=2.2
+numpy>=2.0
+nltk>=3.9
+joblib>=1.4
+matplotlib>=3.9
